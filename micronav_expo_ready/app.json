@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "micronav",
+    "slug": "micronav",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "entryPoint": "index.js",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.micronav.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
